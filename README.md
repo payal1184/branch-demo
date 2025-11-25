@@ -45,3 +45,9 @@ This repo is my personal space to **experiment, make mistakes, fix them, and lea
 - Create & switch branch:
   ```bash
   git switch -c feature-branch
+  
+ Merge branch into main:
+git merge feature-branch
+
+Delete branch:
+git branch -d feature-branch 
